@@ -1,6 +1,6 @@
 {
-    "name": "delegated_resources_customer",
-    "short_name": "delegated_resources_customer",
+    "name": "delegated_web_admin_panel",
+    "short_name": "delegated_web_admin_panel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
